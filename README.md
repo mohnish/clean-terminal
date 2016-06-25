@@ -2,6 +2,8 @@
 
 > Clean is a dark terminal theme for macOS
 
+![](screenshot.png)
+
 ## License
 
 (The MIT License)
