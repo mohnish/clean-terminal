@@ -10,6 +10,10 @@
 - Browse to *Profiles*
 - From the left navigation, click on the gear icon and select *Import...* and select *Clean.terminal*
 
+## Extra
+
+If you like *Clean*, then checkout the Atom Text Editor edition here https://github.com/mohnish/clean-atom
+
 ## License
 
 (The MIT License)
