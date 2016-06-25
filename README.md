@@ -1,6 +1,6 @@
 # Clean
 
-> Clean is a dark terminal theme for macOS
+> Clean is a dark Terminal.app theme for macOS
 
 ![](screenshot.png)
 
