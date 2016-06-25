@@ -4,6 +4,12 @@
 
 ![](screenshot.png)
 
+## Installation
+
+- Open preferences on *Terminal.app*
+- Browse to *Profiles*
+- From the left navigation, click on the gear icon and select *Import...* and select *Clean.terminal*
+
 ## License
 
 (The MIT License)
