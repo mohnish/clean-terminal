@@ -6,9 +6,11 @@
 
 ## Installation
 
+- Download [latest version](https://github.com/mohnish/clean-terminal/archive/refs/tags/1.0.1.zip)
+- Unzip contents into a directory
 - Open preferences on *Terminal.app*
 - Browse to *Profiles*
-- From the left navigation, click on the gear icon and select *Import...* and select *Clean.terminal*
+- From the left navigation, click on the gear icon and select *Import...* and select *Clean.terminal* (from your unzipped directory)
 
 ## Extra
 
